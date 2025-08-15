@@ -23,7 +23,7 @@ I also enjoy exploring AI integrations, data-driven solutions, and creative codi
 😄 **Pronouns:** He/Him  
 
 ⚡ **Fun fact:**  
-A detail-oriented real-world problem solver and passionate about clean code
+- A detail-oriented real-world problem solver and passionate about clean code
 ---
 
 <!---
