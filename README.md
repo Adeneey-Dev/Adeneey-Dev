@@ -12,7 +12,7 @@
 
 ## 🎯 Profile Summary
 
-I am a **Senior Backend-Focused Fullstack Engineer** specializing in architecting **secure, scalable, and resilient backend systems**. My expertise lies in high-performance services built with **Node.js**, **NestJS**, and **TypeScript**, focusing on:
+I am a **Backend-Focused Fullstack Engineer** specializing in architecting **secure, scalable, and resilient backend systems**. My expertise lies in high-performance services built with **Node.js**, **NestJS**, and **TypeScript**, focusing on:
 * **FinTech Systems** (Payments, Wallets, Transactions)
 * **Service-to-Service Architecture** (Microservices, API Gateways)
 * **Authentication & Security** (JWT, API Keys, Webhook Validation)
