@@ -1,90 +1,126 @@
-👋 Hi, I'm Saheed Adeniyi
-🚀 Backend-Focused Fullstack Engineer | API & Microservices Developer | DevOps Enthusiast
-<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="180" /> </p>
-⚡ Tech Arsenal
-<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,js,express,react,nextjs,tailwind,postgres,mongodb,mysql,redis,docker,prisma,rabbitmq,git,github,postman,linux&perline=8" /> </p>
-🧑‍💻 About Me
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="180" alt="Animated Welcome" style="border-radius: 10px;" />
+</p>
 
-I am a backend-focused fullstack engineer passionate about building secure, scalable, and high-performance backend systems.
-I specialize in Node.js, NestJS, TypeScript, PostgreSQL, Redis, Docker, and modern backend architecture.
+# 🥇 Saheed Adeniyi | Fullstack Software Engineering
 
-I love working on real-world systems—microservices, payment solutions, AI agent workflows, event-driven systems, and distributed services.
+## 🚀 Backend-Focused Fullstack Engineer | API, AI Agent & Microservices Developer | DevOps Enthusiast
 
-🔥 What I’m Great At
+<br/>
 
-🚀 Building fast, reliable backend APIs & microservices
+---
 
-🗄️ Database architecture using PostgreSQL, MySQL, MongoDB
+## 🎯 Profile Summary
 
-⚙️ Caching & messaging with Redis, RabbitMQ
+I am a **Senior Backend-Focused Fullstack Engineer** specializing in architecting **secure, scalable, and resilient backend systems**. My expertise lies in high-performance services built with **Node.js**, **NestJS**, and **TypeScript**, focusing on:
+* **FinTech Systems** (Payments, Wallets, Transactions)
+* **Service-to-Service Architecture** (Microservices, API Gateways)
+* **Authentication & Security** (JWT, API Keys, Webhook Validation)
+* **DevOps & Scalability** (Docker, Caching, Event-Driven Design)
 
-🔐 Secure auth with JWT, bcrypt
+I bring a holistic, full-stack approach to product development, ensuring a clean separation of concerns and high code quality from API to UI.
 
-🤖 AI agent integration via Mastra + Telex
+<br/>
 
-📦 Containerization with Docker
+---
 
-💳 Payment integration: Flutterwave, Paystack
+## 🛠️ Expert Tech Stack
 
-🧪 Test-driven development (Postman & Jest)
+A comprehensive view of my full-stack capabilities, clearly focused on the backend core.
 
-🔄 CI/CD pipelines with GitHub Actions
+### **Backend & Core**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,js,express,postgres,mongodb,mysql,redis,prisma,rabbitmq,docker,git,linux,postman&perline=8" alt="Backend Tech Stack Icons" />
+  </a>
+</p>
 
-📌 Featured Projects
-💸 PayFlow – Fintech Digital Wallet
+### **Frontend & Tools**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,githubactions,jest&perline=8" alt="Frontend & Tools Stack Icons" />
+  </a>
+</p>
 
-Wallet funding (Flutterwave), peer-to-peer transfers
+<br/>
 
-OTP verification, email/SMS alerts
+---
 
-95% test coverage + cloud deployment
+## 🔥 Core Backend Strengths (Recruiter Focus)
 
-Secure JWT auth + role-based access
+My expertise is centered on building production-ready systems with enterprise-level resilience.
 
-🏡 HomeFinder – Real Estate Listing API
+| System Component | Key Expertise | Advanced Skills Highlight |
+| :--- | :--- | :--- |
+| **Payments & FinTech** | Paystack/Flutterwave integration, Wallet Systems, Atomic transactions. | **Idempotency** (Webhook Handling), **Concurrency Control**. |
+| **Security & Auth** | JWT generation, Google Sign-in, Bearer/API Key authorization. | **Service-to-Service Auth**, Role-Based Access Control (RBAC), API Key Lifecycle (Expiry, Rollover). |
+| **Microservices** | Building, deploying, and connecting distributed services. | **RabbitMQ** (Event-Driven), **API Gateway**, **Sub-100ms Latency**. |
+| **Testing & Quality** | Test-Driven Development (TDD) and CI/CD automation. | **Jest** unit/integration tests, GitHub Actions pipelines. |
 
-Role-based authentication for agents/users
+<br/>
 
-Property uploads, verification, listing filters
+---
 
-MongoDB + Node.js + secure endpoints
+## 📌 Top-Tier Projects
 
-📨 HNG Notification Microservices
+These projects demonstrate mastery of complex backend challenges, security, and scalability.
 
-Built with NestJS + RabbitMQ + Redis
+### 💳 Secure Wallet & Payment Gateway Service (NestJS, Paystack, JWT, PostgreSQL)
+> *A high-security FinTech backend service handling deposits, transfers, and complex API Key management.*
+* **Advanced Authentication:** Implemented dual-mode authentication: **JWT (Google Sign-in)** for users and **Permission-based API Keys** for service-to-service access.
+* **Financial Integrity:** Achieved **atomic transfers** and **webhook idempotency** to prevent double-crediting and ensure balance integrity.
+* **Secure Lifecycle:** Designed a complete API Key system with **permission assignment**, **expiry**, **revocation**, and **rollover** functionality.
 
-Handles 1000+ notifications/min
+### 💸 PayFlow – FinTech Digital Wallet (Node.js, NestJS, PostgreSQL)
+> *A production-ready digital wallet with peer-to-peer transfers and external funding.*
+* Integrated **Flutterwave** for secure wallet funding; deployed with **95% test coverage**.
+* Secure **JWT auth** and robust **Role-Based Access Control (RBAC)**.
 
-API Gateway (under 100ms latency)
+### 📨 HNG Notification Microservices (NestJS, RabbitMQ, Redis)
+> *Scalable, event-driven notification architecture for high-volume message delivery.*
+* Handled **1000+ notifications/min** using **RabbitMQ** and **Redis** caching.
+* Achieved high efficiency with an **API Gateway** maintaining low latency.
 
-Scalable microservice architecture
+<br/>
 
-🚀 GitHub Stats
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Adeneey-Dev&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adeneey-Dev&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Adeneey-Dev&theme=tokyonight&hide_border=true" /> </p>
-🧩 Current Work
+---
 
-Backend Engineer (HNG Internship): Microservices, AI agents, API gateway, queues, caching
+## 📈 Impressive GitHub Activity & Stats
 
-Backend Developer (RealtyFinder): Real estate APIs with PostgreSQL & Prisma
+Showcasing my commitment to continuous development and code quality with a premium, graphic layout.
 
-Volunteer Dev (Flashboord): OOH media automation backend
+<p align="center">
+  <a href="https://github.com/Adeneey-Dev">
+    <img src="https://github-readme-stats.vercel.app/api?username=Adeneey-Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=title" alt="Saheed's GitHub Stats" style="width: 48%; margin: 5px;" />
+  </a>
+  <a href="https://github.com/Adeneey-Dev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adeneey-Dev&layout=compact&theme=tokyonight&hide_border=true" alt="Saheed's Top Languages" style="width: 48%; margin: 5px;" />
+  </a>
+</p>
 
-🤝 Let’s Collaborate
+<p align="center">
+  <a href="https://github.com/Adeneey-Dev">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adeneey-Dev&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Saheed's GitHub Streak" style="width: 48%; margin: 5px;" />
+  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Adeneey-Dev&theme=tokyonight&no-frame=true&no-bg=true" alt="GitHub Trophies" style="width: 48%; margin: 5px;" />
+  </a>
+</p>
 
-Looking to collaborate on:
-✔ Backend-heavy systems
-✔ Microservices & DevOps projects
-✔ Fintech, e-commerce, AI, logistics, real estate platforms
-✔ Open-source API or backend tools
+<br/>
 
-📫 Reach Me
+---
 
-📧 Email: oyewolesaheed638@gmail.com
+## 🤝 Let’s Connect & Build
 
-💼 LinkedIn: https://linkedin.com/in/oyewole-saheed
+I am actively seeking **Lead/Senior Backend** or **Fullstack** roles focused on high-traffic, security-critical systems.
 
-💻 GitHub: https://github.com/Adeneey-Dev
+| Platform | Handle/Link |
+| :--- | :--- |
+| **Email** | oyewolesaheed638@gmail.com |
+| **LinkedIn** | [Oyewole Saheed](https://linkedin.com/in/oyewole-saheed) |
+| **GitHub** | [@Adeneey-Dev](https://github.com/Adeneey-Dev) |
 
-⚡ Fun Fact
+<br/>
 
-I love turning complex problems into elegant backend solutions that run fast, stay secure, and scale effortlessly.
+> **🚀 Backend Philosophy:** I believe an elegant API and a robust database are the true heart of the application. I ensure my backends are fast, secure, and ready to scale from day one.
