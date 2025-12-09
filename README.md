@@ -24,7 +24,7 @@ I bring a holistic, full-stack approach to product development, ensuring a clean
 
 ---
 
-## 🛠️ Expert Tech Stack
+## 🛠️ Tech Stack
 
 A comprehensive view of my full-stack capabilities, clearly focused on the backend core.
 
